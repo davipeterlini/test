@@ -29,7 +29,7 @@ This is a simple Python backend API built using Flask. It provides basic CRUD op
 
 3. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install flask
    ```
 
 4. Run the application:

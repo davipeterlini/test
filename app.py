@@ -2,7 +2,7 @@ from flask import Flask, jsonify, request
 
 app = Flask(__name__)
 
-# Sample in-memory data store
+# In-memory data store
 data_store = {
     "items": []
 }
